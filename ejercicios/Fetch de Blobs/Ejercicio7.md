@@ -26,3 +26,8 @@ fetchZip();
 - response.blob(): Convierte la respuesta en un objeto Blob.
 - URL.createObjectURL(blob): Crea una URL para el blob.
 - console.log(...): Imprime la URL del archivo ZIP, indicando que está disponible para su descarga.
+
+
+### Resultado
+
+![Texto alternativo](../../src/Ejercicio33res.png "Respuesta del codigo ejemplo")

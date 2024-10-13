@@ -90,7 +90,7 @@ const config = {
             label: 'Tutorial',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/ejercicios/GET_requests', label: 'Ejercicios', position: 'left'},  // Aquí se agrega el nuevo campo
+          {to: '/ejercicios/PromesasEnCadena/ejercicio1', label: 'Ejercicios', position: 'left'},  // Aquí se agrega el nuevo campo
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

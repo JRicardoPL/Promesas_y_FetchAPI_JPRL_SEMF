@@ -25,3 +25,6 @@ fetchTextFile();
 - blob.text(): Convierte el blob en texto.
 - console.log(...): Muestra el contenido del archivo de texto en la consola.
 
+### Resultado
+
+![Texto alternativo](../../src/Ejercicio31res.png "Respuesta del codigo ejemplo")
