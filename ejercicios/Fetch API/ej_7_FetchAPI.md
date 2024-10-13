@@ -44,7 +44,7 @@ Definición de la URL: Se establece la URL de la API para actualizar un usuario 
 
 Datos Actualizados: Se define un objeto updatedUser que contiene la información actualizada del usuario.
 
-Uso de Fetch con PUT: Se realiza una solicitud PUT utilizando fetch(url, { method: 'PUT', ... }).
+Uso de Fetch con PUT: Se realiza una solicitud PUT utilizando fetch(url, `{ method: 'PUT', ... })`.
 
 Cabeceras de la Solicitud: Se indican las cabeceras necesarias, especificando que el contenido de la solicitud es de tipo JSON.
 

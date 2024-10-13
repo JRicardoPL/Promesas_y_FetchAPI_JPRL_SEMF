@@ -45,7 +45,7 @@ Definición de la URL: Se establece la URL de la API donde se enviarán los dato
 
 Definición de los Datos: Se crea un objeto newUser con la información del nuevo usuario que se desea enviar.
 
-Uso de Fetch con POST: Se realiza una solicitud POST utilizando fetch(url, { method: 'POST', ... }).
+Uso de Fetch con POST: Se realiza una solicitud POST utilizando fetch(url, `{ method: 'POST', ... })`.
 
 Configuración de Headers: Se especifica el encabezado Content-Type para indicar que el cuerpo de la solicitud contiene datos en formato JSON.
 
